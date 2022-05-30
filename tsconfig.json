@@ -5,9 +5,5 @@
     "strict": true
   },
   "include": ["server", "client"],
-  "exclude": ["**/node_modules"],
-  "scripts": {
-    "server": "tsc && node server",
-    "client": "tsc && node client"
-  }
+  "exclude": ["**/node_modules"]
 }
