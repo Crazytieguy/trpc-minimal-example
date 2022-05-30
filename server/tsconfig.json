@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "moduleResolution": "node",
-    "esModuleInterop": true,
-    "strict": true
-  },
-  "include": ["."],
-  "exclude": ["node_modules"]
-}
